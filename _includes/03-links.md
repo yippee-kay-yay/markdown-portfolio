@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[yippee-kay-yay](https://github.com/yippee-kay-yay)
